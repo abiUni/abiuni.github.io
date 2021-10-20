@@ -16,7 +16,7 @@ var styles = [ {
       "border-width" : 0.0,
       "text-valign" : "center",
       "text-halign" : "center",
-      "font-size" : 18,
+      "font-size" : 24,
       "background-color" : "rgb(0,0,0)",
       "font-family" : "Monospaced",
       "font-weight" : "normal",
