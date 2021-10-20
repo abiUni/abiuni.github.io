@@ -610,12 +610,12 @@ var styles = [ {
   "style" : [ {
     "selector" : "node",
     "css" : {
-      "color" : "rgb(0,0,0)",
+      "color" : "rgb(56,108,176)",
       "border-color" : "rgb(204,204,204)",
       "text-opacity" : 1.0,
       "shape" : "roundrectangle",
       "border-opacity" : 1.0,
-      "height" : 50.0,
+      "height" : 20.0,
       "border-width" : 0.0,
       "text-valign" : "center",
       "text-halign" : "center",
@@ -625,7 +625,7 @@ var styles = [ {
       "font-weight" : "normal",
       "background-opacity" : 1.0,
       "content" : "data(name)",
-      "width" : "data(name)"
+      "width" : 20.0
     }
   }, {
     "selector" : "node:selected",
