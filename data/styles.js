@@ -619,7 +619,7 @@ var styles = [ {
       "border-width" : 0.0,
       "text-valign" : "center",
       "text-halign" : "center",
-      "font-size" : 20,
+      "font-size" : 24,
       "background-color" : "rgb(255,247,188)",
       "font-family" : "SansSerif",
       "font-weight" : "normal",
